@@ -30,9 +30,6 @@
   <li><a href="https://github.com/JeanCDev/JeanCDev/">GitHub</a></li>
 </ul>
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/JeanCDev" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @JeanCDev on GitHub">Follow @JeanCDev</a>
-
 <!--
 **JeanCDev/JeanCDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
